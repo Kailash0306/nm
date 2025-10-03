@@ -94,6 +94,3 @@ Output:
 
 ✨ In short, this project demonstrates the end-to-end pipeline of an **NLP-based sentiment analysis system**, from data preprocessing → feature engineering → model training → evaluation → saving models for future deployment.
 
----
-
-Do you want me to also **write this in a proper "README.md" format** (with headings, bullet points, and code snippets) so you can directly use it in your project repository?
